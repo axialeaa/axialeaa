@@ -6,5 +6,5 @@ Over time, this has led me down the path of modding the game using the [Fabric](
 I hope you can find something you're interested in. I'm glad to have you here!
 ***
 
+### My Stats
 ![](https://github-readme-stats.vercel.app/api?username=axialeaa&show=reviews,prs_merged&show_icons=true&theme=omni&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=axialeaa&theme=omni&hide_border=false)
