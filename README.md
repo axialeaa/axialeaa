@@ -6,9 +6,5 @@ Over time, this has led me down the path of modding the game using the [Fabric](
 I hope you can find something you're interested in. I'm glad to have you here!
 ***
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=axialeaa&show=reviews,prs_merged&show_icons=true&theme=omni&hide_border=false&include_all_commits=true&count_private=false"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axialeaa&theme=omni&hide_border=false&include_all_commits=true&count_private=false&layout=donut"/>
-</a>
+![](https://github-readme-stats.vercel.app/api?username=axialeaa&show=reviews,prs_merged&show_icons=true&theme=omni&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=axialeaa&theme=omni&hide_border=false)
